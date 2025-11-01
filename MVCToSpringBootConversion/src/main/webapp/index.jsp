@@ -1,0 +1,15 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+	pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<h1>Welcome to Spring boot Application</h1>
+</head>
+<body>
+	<a href="register.jsp">Register Here</a>
+	<a href="login.jsp">Login Here</a>
+	
+</body>
+</html>
